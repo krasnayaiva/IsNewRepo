@@ -1,0 +1,3 @@
+[submodule "IsNewRepo"]
+	path = IsNewRepo
+	url = https://github.com/krasnayaiva/IsNewRepo.git
